@@ -10,7 +10,7 @@ public static void main(String[] args){
     cylinder cylinder = new cylinder();
     cone cone = new cone();
 
-    //setting radius and printing toString for the Sphere
+    //setting radius and printing toString for the Sphere.
     sphere.setRadius(2.0);
     System.out.println(sphere.toString());
 

@@ -29,7 +29,7 @@ public double SurfaceArea() {
     @Override
     public String toString() {
         return "cube{" +
-                "radius=" + radius +
+                "width=" + width +
                 ", surfaceArea=" + SurfaceArea() + ", volume="+ Volume()+ '}';
     }
     }
